@@ -32,7 +32,7 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://client2.ssodbalua.work.gd:44301",
+      "applicationUrl": "https://localhost:5030",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Production"
       }
